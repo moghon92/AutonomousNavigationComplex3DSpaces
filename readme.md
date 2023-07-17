@@ -15,7 +15,7 @@ This study presents the technique of using range-sensing cameras for path planni
 
 The research focuses on object detection, path planning, and obstacle avoidance for unmanned aerial vehicles, with an emphasis on range finding sensors, primarily the Kinect depth sensor. The research faced limitations, including the vision capabilities of the Kinect depth sensor and its incompatibility with the current hardware setup of FALTER quadrocopter. This incompatibility prevented us from real-life testing of our software on the copter control unit.
 
-## 1.3 Thesis Outline
+## 1.3 report Outline
 
 - **Chapter 2**: Provides the basic background needed to understand subsequent discussions.
 - **Chapter 3**: Overviews the current state of art developments related to our topic and summarizes techniques developed to solve path planning and navigation problems.
